@@ -5,5 +5,3 @@ git integration with jenkins using poll scm
 git integration with jenkins using webhook
 git integration with jenkins using webhook
 git integration with jenkins using webhook2
-welcom
-welcome
